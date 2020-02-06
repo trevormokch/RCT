@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Purpose
 
-You can use the [editor on GitHub](https://github.com/trevormokch/RCT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Chronic non-communicable diseases such as diabetes are a pressing issue for society. More than one in ten adults in Hong Kong and mainland China have type 2 diabetes, with another 35% (388 million) in China classified as having pre-diabetes. Lifestyle modification is a key strategy for public health and diabetes control. According to clinical best practice guidelines, the first management step for a person newly diagnosed with type 2 diabetes is an intensive lifestyle intervention programme of healthy diet, physical activity and smoking cessation. However, these programmes are often designed using standard economic models of behaviour that rely on the assumption of rational decision-making. Sustaining healthy lifestyles choices may be relatively straightforward for the already motivated but is likely to prove difficult for those that have developed chronic health conditions linked to their lifestyle. Insights from behavioural economics have the potential to “nudge” individuals towards behavioural change.
+ 
+Techniques based on behavioural economics have been used to improve adherence to chronic disease management but have not been tested at the early stages of disease, where there lies an opportunity to delay or reverse the onset of type 2 diabetes for newly diagnosed people undergoing the initial lifestyle modification programme.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Content
 
-### Markdown
+A recent review of some small trials of behavioural economic-based incentives are effective in promoting health behaviours such as weight loss, physical activity, and medication adherence. To widen the scope of previous studies, we would like to further investigate the effects of behavioural economics-based incentives specifically on glycaemic control and lifestyle in adults with newly diagnosed type 2 diabetes.
+ 
+In view of this, the School of Public Health of the University of Hong Kong would like to invite around 500 participants who have been recently diagnosed with type 2 diabetes to participate in a 9-month, four-arm, randomised controlled trial starting in February 2020. Our aim is to investigate the effect of behavioural economic-based incentives against a control group receiving standard care on glycaemic control and lifestyle change, to compare and suggest ways to lower direct medical cost for treatment for diabetes in the public sector in Hong Kong. Those who are eligible for the study will be invited for a brief follow-up session 6 months and 9 months after the commencement of the experiment. Free pedometer and blood tests will be provided. In order to show our great appreciation for participation, each participant will receive a gift coupon upon enrolment and completion of the study.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Participants
+Potential participants should meet the following criteria:
+Chinese adults aged 30-70 years
+Capable of providing informed consent in either Chinese or English
+Newly diagnosed with type II diabetes within the past month (6.5% ≤ HbA1c ≤ 7.5%)
+Taking metformin at constant dose only as diabetic drug
+Willing to take blood tests and wear pedometer with smartphone tracking during the experiment
+ 
+Meeting any of the following criteria are not eligible to join the study:
+Participating in another intervention study
+Any health conditions prohibiting from completing the 9-month trial (e.g. history of dysphagia, cancer, serious illness, breastfeeding)
+Medical conditions that can affect HbA1c measurements (e.g. anaemia, haemoglobinopathies, haemolysis, iron/B12 deficiency or supplements, chronic liver diseases, splenectomy, rheumatoid arthritis, use to anti-retroviral drugs, ribavirin, aspirin)
 
-```markdown
-Syntax highlighted code block
+FREE of charge
 
-# Header 1
-## Header 2
-### Header 3
+FREE pedometer for tracking the physical activity 
 
-- Bulleted
-- List
+FREE basic blood tests
 
-1. Numbered
-2. List
+$50 gift coupon upon study enrolment and completion of study
 
-**Bold** and _Italic_ and `Code` text
+Chance to receive up to HKD 1000 cash
 
-[Link](url) and ![Image](src)
-```
+### Procedures
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. General Outpatient Clinic/Individual registration - Call our hotline (?) or register online
+2. Signing informed consent - Written informed consent will be sought from each eligible adult who is willing to participate. A copy of the consent form will be provided.
+3. Enrolment interview - Fill in a short questionnaire for background demographics.
+4. Collection of blood samples - FREE simple blood tests will be provided
+5. Random allocation of participants - Participants will be assigned in different groups. Follow the instructions from the investigators.
+6. 6-month follow up - Fill in a short questionnaire similar to the one in enrolment. FREE blood tests will be provided.
+7. 9-month follow up - Brief follow up assessment to monitor changes in health status. FREE blood tests will be provided.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trevormokch/RCT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
