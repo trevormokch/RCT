@@ -23,24 +23,23 @@ Participating in another intervention study
 Any health conditions prohibiting from completing the 9-month trial (e.g. history of dysphagia, cancer, serious illness, breastfeeding)
 Medical conditions that can affect HbA1c measurements (e.g. anaemia, haemoglobinopathies, haemolysis, iron/B12 deficiency or supplements, chronic liver diseases, splenectomy, rheumatoid arthritis, use to anti-retroviral drugs, ribavirin, aspirin)
 
-FREE of charge
-
-FREE pedometer for tracking the physical activity 
-
-FREE basic blood tests
-
-$50 gift coupon upon study enrolment and completion of study
-
-Chance to receive up to HKD 1000 cash
+<ul>
+<li>FREE of charge</li>
+<li>FREE pedometer for tracking the physical activity</li>
+<li>FREE basic blood tests</li>
+<li>$50 gift coupon upon study enrolment and completion of study</li>
+<li>Chance to receive up to HKD 1000 cash</li>
+</ul>
 
 ### Procedures
-
-1. General Outpatient Clinic/Individual registration - Call our hotline (?) or register online
-2. Signing informed consent - Written informed consent will be sought from each eligible adult who is willing to participate. A copy of the consent form will be provided.
-3. Enrolment interview - Fill in a short questionnaire for background demographics.
-4. Collection of blood samples - FREE simple blood tests will be provided
-5. Random allocation of participants - Participants will be assigned in different groups. Follow the instructions from the investigators.
-6. 6-month follow up - Fill in a short questionnaire similar to the one in enrolment. FREE blood tests will be provided.
-7. 9-month follow up - Brief follow up assessment to monitor changes in health status. FREE blood tests will be provided.
+<ul>
+<li>General Outpatient Clinic/Individual registration - Call our hotline (?) or register online</li>
+<li>Signing informed consent - Written informed consent will be sought from each eligible adult who is willing to participate. A copy of the consent form will be provided.</li>
+<li>Enrolment interview - Fill in a short questionnaire for background demographics.</li>
+<li>Collection of blood samples - FREE simple blood tests will be provided</li>
+<li>Random allocation of participants - Participants will be assigned in different groups. Follow the instructions from the investigators.</li>
+<li>6-month follow up - Fill in a short questionnaire similar to the one in enrolment. FREE blood tests will be provided.</li>
+<li>9-month follow up - Brief follow up assessment to monitor changes in health status. FREE blood tests will be provided.</li>
+</ul>
 
 
