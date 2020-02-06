@@ -1,3 +1,4 @@
+<div align="justify">
 ## Purpose
 
 Chronic non-communicable diseases such as diabetes are a pressing issue for society. More than one in ten adults in Hong Kong and mainland China have type 2 diabetes, with another 35% (388 million) in China classified as having pre-diabetes. Lifestyle modification is a key strategy for public health and diabetes control. According to clinical best practice guidelines, the first management step for a person newly diagnosed with type 2 diabetes is an intensive lifestyle intervention programme of healthy diet, physical activity and smoking cessation. However, these programmes are often designed using standard economic models of behaviour that rely on the assumption of rational decision-making. Sustaining healthy lifestyles choices may be relatively straightforward for the already motivated but is likely to prove difficult for those that have developed chronic health conditions linked to their lifestyle. Insights from behavioural economics have the potential to “nudge” individuals towards behavioural change.
@@ -41,5 +42,5 @@ Medical conditions that can affect HbA1c measurements (e.g. anaemia, haemoglobin
 <li>6-month follow up - Fill in a short questionnaire similar to the one in enrolment. FREE blood tests will be provided.</li>
 <li>9-month follow up - Brief follow up assessment to monitor changes in health status. FREE blood tests will be provided.</li>
 </ul>
-
+</div>
 
